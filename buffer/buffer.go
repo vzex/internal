@@ -33,7 +33,7 @@
 package buffer
 
 import (
-	"github.com/cznic/internal/slice"
+	"github.com/vzex/internal/slice"
 	"io"
 )
 
