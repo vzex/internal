@@ -11,9 +11,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/cznic/fileutil"
-	"github.com/cznic/internal/buffer"
-	"github.com/cznic/mathutil"
+	"github.com/vzex/fileutil"
+	"github.com/vzex/internal/buffer"
+	"github.com/vzex/mathutil"
 	"github.com/edsrzf/mmap-go"
 )
 

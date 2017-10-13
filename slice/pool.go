@@ -8,7 +8,7 @@ package slice
 import (
 	"sync"
 
-	"github.com/cznic/mathutil"
+	"github.com/vzex/mathutil"
 )
 
 var (
